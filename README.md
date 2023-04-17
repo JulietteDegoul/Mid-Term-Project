@@ -1,4 +1,4 @@
-# Mid-Term-Project: Gender Pay Gap Analysis in STEM jobs
+# Mid-Term-Project: Gender Pay Gap Analysis in STEM
 
 by - Juliette Degoul
 
